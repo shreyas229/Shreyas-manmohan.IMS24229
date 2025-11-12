@@ -4,7 +4,7 @@
 **Name:** Shreyas Manmohan  
 **Roll Number:** IMS24229  
 **Course Code:** DSC212  
-**Institute:** [Your Institute Name Here]  
+**Institute:** iiser thiruvananthapuram  
 **GitHub Repository:** [https://github.com/shreyas229/Shreyas-manmohan.IMS24229.git](https://github.com/shreyas229/Shreyas-manmohan.IMS24229.git)
 
 ---
